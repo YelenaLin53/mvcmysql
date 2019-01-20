@@ -1,0 +1,28 @@
+﻿h1{
+    text-align:center;
+}
+div {
+    width: 70%;
+    border: 1px solid gray;
+    margin: auto;
+    background-color: lightgrey;
+    overflow:hidden;
+}
+dt {
+    background-color: lightgrey;
+}
+dt{
+    
+    width:360px;
+    margin:auto;
+    font-size:25px;
+}
+dd {
+    background-color: #ffffff;
+    text-align: center;
+    font-size: 22px;
+}
+p{
+    text-align:center;
+}
+  
